@@ -1,6 +1,7 @@
 # 3D Bounding Box with Open3D
 
 This repository shows some examples on how to visualize 3D grounding boxes with [Open3D](https://www.open3d.org/).
+It is also the visualization implementation of our paper ["Rethinking 3D Dense Caption and Visual Grounding in A Unified Framework through Prompt-based Localization"](https://arxiv.org/abs/2404.11064).
 
 # Usage
 ## Environment Setup
